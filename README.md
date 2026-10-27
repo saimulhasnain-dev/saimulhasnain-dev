@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saimul%20Hasnain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Backend%20Engineer%20%26%20Tech%20Lead&descAlignY=51&descAlign=50" width="100%"/>
-
+  <img src="./banner.svg" width="100%" alt="Saimul Hasnain Banner"/>
 </div>
 
 <div align="center">
