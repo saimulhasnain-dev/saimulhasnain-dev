@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saimul%20Hasnain&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=I%20build%20backends%20that%20move%20real%20money%20without%20breaking&descSize=16&descAlignY=58&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=200&section=header&text=Saimul%20Hasnain&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=I%20build%20backends%20that%20move%20real%20money%20without%20breaking&descSize=16&descAlignY=58&descColor=38bdf8" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Senior+Backend+Engineer+%26+Solutions+Architect;100K%2B+concurrent+requests+%E2%80%A2+99.9%25+uptime;Fintech+%E2%80%A2+Crypto+%E2%80%A2+Payments+%E2%80%A2+LLM+Integrations;TypeScript+%E2%80%A2+NestJS+%E2%80%A2+AWS+%E2%80%A2+Dubai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Senior+Backend+Engineer+%26+Solutions+Architect;100K%2B+concurrent+requests+%E2%80%A2+99.9%25+uptime;Fintech+%E2%80%A2+Crypto+%E2%80%A2+Payments+%E2%80%A2+LLM+Integrations;TypeScript+%E2%80%A2+NestJS+%E2%80%A2+AWS+%E2%80%A2+Dubai)](https://git.io/typing-svg)
 
 </div>
 
@@ -122,10 +122,10 @@ const saimul = {
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=saimulhasnain-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD9E5&ring_color=A78BFA" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimulhasnain-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD9E5" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=saimulhasnain-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8&text_color=CDD9E5&ring_color=38bdf8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimulhasnain-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=CDD9E5" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saimulhasnain-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="500" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saimulhasnain-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="500" />
 
 </div>
 
@@ -159,6 +159,6 @@ Scale problem? Architecture decision? Want to collab on something interesting?
 
 *If a package saved you a deadline — a star costs nothing and means everything.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
 
 </div>
