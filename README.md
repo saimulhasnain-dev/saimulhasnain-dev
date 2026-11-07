@@ -95,8 +95,8 @@ available_for: Interesting problems, open source, & coffee chats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saimulhasnain-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimulhasnain-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saimulhasnain-dev&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saimulhasnain-dev&theme=tokyonight" />
 
 </div>
 
