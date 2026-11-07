@@ -68,10 +68,10 @@ available_for: Interesting problems, open source, & coffee chats
 
 | Package | Description |
 |---------|-------------|
-| [`@thensaimulhasnain/nestjs-redis`](https://www.npmjs.com/package/@thensaimulhasnain/nestjs-redis) | Drop-in Redis module for NestJS |
-| [`@thensaimulhasnain/nestjs-logger`](https://www.npmjs.com/package/@thensaimulhasnain/nestjs-logger) | Structured JSON logger for NestJS |
-| [`@thensaimulhasnain/nestjs-config`](https://www.npmjs.com/package/@thensaimulhasnain/nestjs-config) | Type-safe config loader for NestJS |
-| [`@thensaimulhasnain/nestjs-health`](https://www.npmjs.com/package/@thensaimulhasnain/nestjs-health) | Health-check module for NestJS |
+| [`joi-form-i18n`](https://www.npmjs.com/package/joi-form-i18n) | Joi validation errors as ready-to-show form messages (8 languages) |
+| [`uniform-api-response`](https://www.npmjs.com/package/uniform-api-response) | Consistent JSON envelope for every API response — zero deps |
+| [`env-startup-check`](https://www.npmjs.com/package/env-startup-check) | Fail fast on missing/invalid env vars at startup — zero deps |
+| [`webhook-verify-kit`](https://www.npmjs.com/package/webhook-verify-kit) | Verify Stripe, GitHub, Shopify, Slack webhook signatures — zero deps |
 
 ---
 
@@ -79,10 +79,10 @@ available_for: Interesting problems, open source, & coffee chats
 
 <div align="center">
 
-[![nestjs-redis](https://nodei.co/npm/@thensaimulhasnain/nestjs-redis.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@thensaimulhasnain/nestjs-redis/)
-[![nestjs-logger](https://nodei.co/npm/@thensaimulhasnain/nestjs-logger.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@thensaimulhasnain/nestjs-logger/)
-[![nestjs-config](https://nodei.co/npm/@thensaimulhasnain/nestjs-config.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@thensaimulhasnain/nestjs-config/)
-[![nestjs-health](https://nodei.co/npm/@thensaimulhasnain/nestjs-health.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@thensaimulhasnain/nestjs-health/)
+[![joi-form-i18n](https://nodei.co/npm/joi-form-i18n.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/joi-form-i18n/)
+[![uniform-api-response](https://nodei.co/npm/uniform-api-response.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/uniform-api-response/)
+[![env-startup-check](https://nodei.co/npm/env-startup-check.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/env-startup-check/)
+[![webhook-verify-kit](https://nodei.co/npm/webhook-verify-kit.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/webhook-verify-kit/)
 
 </div>
 
