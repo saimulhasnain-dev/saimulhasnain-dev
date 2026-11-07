@@ -75,6 +75,19 @@ available_for: Interesting problems, open source, & coffee chats
 
 ---
 
+## 📈 npm Stats
+
+<div align="center">
+
+[![nestjs-redis](https://nodei.co/npm/@thensaimulhasnain/nestjs-redis.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@thensaimulhasnain/nestjs-redis/)
+[![nestjs-logger](https://nodei.co/npm/@thensaimulhasnain/nestjs-logger.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@thensaimulhasnain/nestjs-logger/)
+[![nestjs-config](https://nodei.co/npm/@thensaimulhasnain/nestjs-config.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@thensaimulhasnain/nestjs-config/)
+[![nestjs-health](https://nodei.co/npm/@thensaimulhasnain/nestjs-health.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@thensaimulhasnain/nestjs-health/)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
