@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saimul%20Hasnain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Solutions%20Architect%20%26%20Backend%20Tech%20Lead%20%40%20D24%20Fintech&descSize=17&descAlignY=58&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saimul%20Hasnain&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=I%20build%20backends%20that%20move%20real%20money%20without%20breaking&descSize=16&descAlignY=58&descColor=a78bfa" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Architecting+fintech+backends+that+move+real+money+%F0%9F%92%B8;100K%2B+concurrent+requests+%E2%80%A2+99.9%25+uptime;LLM+integrations+%2B+distributed+systems+%40+D24+Fintech;Leading+a+25-engineer+backend+team+from+Dubai+%F0%9F%87%A6%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Senior+Backend+Engineer+%26+Solutions+Architect;100K%2B+concurrent+requests+%E2%80%A2+99.9%25+uptime;Fintech+%E2%80%A2+Crypto+%E2%80%A2+Payments+%E2%80%A2+LLM+Integrations;TypeScript+%E2%80%A2+NestJS+%E2%80%A2+AWS+%E2%80%A2+Dubai+%F0%9F%87%A6%F0%9F%87%AA)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,24 +10,23 @@
 
 ```ts
 const saimul = {
-  name      : "Saimul Hasnain",
-  location  : "Dubai, UAE 🇦🇪",
-  role      : "Solutions Architect · Backend Tech Lead",
-  company   : "D24 Fintech  (5 yrs)",
-  domain    : ["Payments", "Crypto Exchanges", "Algo Trading", "Market Making"],
+  name     : "Saimul Hasnain",
+  location : "Dubai, UAE 🇦🇪",
+  title    : "Senior Backend Engineer · Solutions Architect",
+  years    : "8+ years building production systems",
 
-  stack: {
-    languages    : ["TypeScript", "JavaScript", "Python"],
-    runtime      : ["Node.js", "NestJS", "Express"],
-    cloud        : ["AWS (EC2 · Lambda · SQS · S3 · RDS · CloudWatch)", "Docker", "Kubernetes"],
-    data         : ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
-    patterns     : ["Microservices", "Event-Driven", "CQRS", "API Gateway", "Smart Order Routing"],
-    llm          : ["LLM Integrations", "RAG Pipelines", "AI-augmented Backends"],
+  expertise: {
+    domains  : ["Fintech", "Crypto Exchanges", "Payments", "Algo Trading"],
+    scale    : "100K+ concurrent · 99.9% uptime · <50ms p99",
+    team     : "Led a 25-engineer backend team",
+    stack    : ["TypeScript", "Node.js", "NestJS", "AWS", "PostgreSQL", "Redis"],
+    patterns : ["Microservices", "Event-Driven", "CQRS", "Smart Order Routing"],
+    llm      : ["LLM Integrations", "RAG Pipelines", "AI-augmented Backends"],
   },
 
-  currentFocus : "Platform engineering · Zero-downtime deploys · LLM tooling",
-  cert         : "AWS Certified Cloud Practitioner",
-  openTo       : ["Interesting architecture problems", "Open source", "Coffee chats ☕"],
+  currentlyBuilding : "Zero-dependency npm tools & LLM-powered backend utilities",
+  cert              : "AWS Certified Cloud Practitioner",
+  openTo            : ["Hard problems", "Open source", "Coffee chats ☕"],
 };
 ```
 
@@ -35,31 +34,30 @@ const saimul = {
 
 <div align="center">
 
-## 🏦 Domain — Fintech at Scale
+## ⚡ What I'm Known For
 
 </div>
-
-For the past **5 years at D24 Fintech** I've owned the backend that moves real money across crypto exchanges. That means uptime isn't optional.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ What I Build
-- **High-scale REST & GraphQL APIs** — 100K+ concurrent, <50ms p99
-- **Market-making & signal-driven trading bots** — live order book management
-- **Smart Order Routing** — best price across multiple exchanges
-- **Payment & settlement backends** — reliability-first
-- **LLM-augmented services** — RAG pipelines, AI tooling
+### 🏗️ I Build
+- APIs that handle **100K+ concurrent requests** without sweating
+- **Market-making & trading systems** wired to live exchanges
+- **Smart order routers** that find best execution in real time
+- **LLM-powered backends** — RAG pipelines, AI tooling, agentic APIs
+- **Developer tools** that ship as zero-dependency npm packages
 
 </td>
 <td width="50%" valign="top">
 
-### 👥 How I Lead
-- Tech lead for a **25-engineer backend team**
-- Own system design decisions end-to-end
-- Drive architecture reviews, incident post-mortems
-- Currently exploring: **OpenTelemetry**, **edge computing**, **eBPF profiling**
+### 🧠 I Think About
+- System design that holds up at **3am on a Tuesday**
+- **Failure modes first** — then the happy path
+- **Observability as a first-class feature**, not an afterthought
+- **DX** — if the API is hard to use, it's broken
+- **Team leverage** — good architecture multiplies every engineer around it
 
 </td>
 </tr>
@@ -69,65 +67,41 @@ For the past **5 years at D24 Fintech** I've owned the backend that moves real m
 
 <div align="center">
 
-## 💼 Experience
-
-</div>
-
-```
-D24 Fintech (formerly DIFX) — Dubai, UAE                       Dec 2021 → Present · 5 yrs
-  ├─ Solutions Architect · Backend Tech Lead    Oct 2022 → Present
-  │    Lead backend architecture for payments, trading & exchange products.
-  │    Own system design across a 25-engineer team.
-  │    🏅 Best Employee Recognition
-  └─ Senior Full Stack Developer                Dec 2021 → Sep 2022
-
-3Pillar Global — Remote (India)                                Oct 2020 → Nov 2021 · 1 yr 2 mos
-  └─ Senior Software Engineer
-       Built backend services for Blink Fitness (AWS).
-       Membership subscriptions, payment retry logic.
-
-TechAhead — Noida, India                                       Mar 2018 → Oct 2020 · 2 yrs 8 mos
-  └─ Software Engineer
-       SaaS & payment platforms for international enterprise clients.
-```
-
----
-
-<div align="center">
-
 ## 📦 npm Packages
 
+*Small, focused, zero-dependency tools I wish existed when I needed them.*
+
 </div>
 
-| Package | Description |
-|---------|-------------|
-| [**webhook-verify-kit**](https://www.npmjs.com/package/webhook-verify-kit) | Verify Stripe, GitHub, Shopify, Slack signatures — constant-time compare, replay protection, secret rotation. Zero deps. |
-| [**uniform-api-response**](https://www.npmjs.com/package/uniform-api-response) | One consistent JSON envelope for every endpoint — success, error code, request id, pagination. Zero deps. |
-| [**joi-form-i18n**](https://www.npmjs.com/package/joi-form-i18n) | Joi validation errors → human-readable form messages in EN, ES, FR, DE, PT, AR, HI, UR. |
-| [**env-startup-check**](https://www.npmjs.com/package/env-startup-check) | Fail fast on bad env vars. Reports every issue at once, never leaks secrets, derives from `.env.example`. Zero deps. |
+| Package | Install | What it does |
+|---------|---------|-------------|
+| [**webhook-verify-kit**](https://www.npmjs.com/package/webhook-verify-kit) | `npm i webhook-verify-kit` | Verify Stripe, GitHub, Shopify & Slack signatures — constant-time compare, replay protection, secret rotation |
+| [**uniform-api-response**](https://www.npmjs.com/package/uniform-api-response) | `npm i uniform-api-response` | One consistent JSON envelope for every endpoint — success, errors, pagination. Express-ready |
+| [**joi-form-i18n**](https://www.npmjs.com/package/joi-form-i18n) | `npm i joi-form-i18n` | Joi errors → ready-to-show form messages in 8 languages (EN, ES, FR, DE, PT, AR, HI, UR) |
+| [**env-startup-check**](https://www.npmjs.com/package/env-startup-check) | `npm i env-startup-check` | Fail fast on bad env vars — reports everything at once, never leaks secrets |
 
 ---
 
 <div align="center">
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 </div>
 
-| Project | What it does |
-|---------|-------------|
-| **Market-Making & Trading Bots** *(D24 Fintech)* | Live market-making with signal-based execution. Keeps order books liquid on crypto exchanges via direct API connections. |
-| **Smart Order Router** *(D24 Fintech)* | Routes orders across exchanges to get best price, depth, fees and liquidity — in real time. |
-| [**create-nest-api-starter**](https://github.com/saimulhasnain-dev/create-nest-api-starter) | `npm create nest-api-starter` — NestJS skeleton with config validation, health checks, CRUD, and tests ready to ship. |
-| [**create-node-service-starter**](https://github.com/saimulhasnain-dev/create-node-service-starter) | `npm create node-service-starter` — TypeScript + Express, graceful shutdown, Dockerfile. From zero to prod in minutes. |
+| Project | Stack | What it does |
+|---------|-------|-------------|
+| [**create-nest-api-starter**](https://github.com/saimulhasnain-dev/create-nest-api-starter) | NestJS · TypeScript | `npm create nest-api-starter` — production-ready NestJS skeleton with config, health checks, CRUD & tests |
+| [**create-node-service-starter**](https://github.com/saimulhasnain-dev/create-node-service-starter) | Express · TypeScript | `npm create node-service-starter` — Express + graceful shutdown + Dockerfile. Zero to prod in minutes |
+| **Market-Making Engine** | Node.js · WS · Redis | Live order book management, signal-based execution across crypto exchanges |
+| **Smart Order Router** | TypeScript · PostgreSQL | Real-time best-execution routing across venues by price, depth & fees |
 
 ---
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-**Backend & Runtime**
+**Languages & Runtime**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -135,7 +109,7 @@ TechAhead — Noida, India                                       Mar 2018 → Oc
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-**Cloud & Infrastructure**
+**Cloud & Infra**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -172,13 +146,13 @@ TechAhead — Noida, India                                       Mar 2018 → Oc
 
 <div align="center">
 
-## 🧠 Engineering Philosophy
+## 🧠 How I Think
 
 > *"Scale isn't a feature you add later — it's a decision you make on day one."*
 
-> *"In fintech, 'it works on my machine' doesn't cut it. It has to work at 3am on a Tuesday."*
+> *"The best API is the one callers never have to think about."*
 
-> *"The best API is the one your callers never have to think about."*
+> *"If the on-call doesn't get paged, the architecture did its job."*
 
 </div>
 
@@ -186,9 +160,9 @@ TechAhead — Noida, India                                       Mar 2018 → Oc
 
 <div align="center">
 
-## 🤝 Let's Connect
+## 🤝 Let's Talk
 
-If you're wrestling with scale, designing a fintech backend, integrating LLMs, or want a second pair of eyes on an architecture — reach out.
+Scale problem? Architecture decision? Want to collab on something interesting? Find me here.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimulhasnain)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~thensaimulhasnain)
@@ -196,7 +170,7 @@ If you're wrestling with scale, designing a fintech backend, integrating LLMs, o
 
 <br/>
 
-*If an open-source package saved you a deadline, a ⭐ is the best thank-you there is.*
+*If a package saved you a deadline — a ⭐ costs nothing and means everything.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
