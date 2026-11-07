@@ -24,12 +24,11 @@ name: Saimul Hasnain
 location: Dubai, UAE
 role: Senior Backend Engineer & Solutions Architect
 experience: 8+ years building production systems
-specialties:
-  - High-scale API Architecture (100K+ concurrent, 99.9% uptime, <50ms p99)
-  - Microservices, Event-Driven Design, CQRS, Smart Order Routing
-  - Fintech, Crypto Exchanges, Algo Trading, Payment Rails
-  - LLM Integrations, RAG Pipelines, AI-augmented Backends
-  - Led 25-engineer backend team across 3 time zones
+domains:
+  - Fintech, KYC/AML, White-Label Crypto Exchanges
+  - Market Making, Algo Trading, FIX Protocol
+  - Distributed Systems, Scalability, Performance Tuning
+  - LLM Integrations, MCP, Generative AI Backends
 cert: AWS Certified Cloud Practitioner
 currently_building: Zero-dependency npm tools & LLM-powered backend utilities
 available_for: Interesting problems, open source, & coffee chats
@@ -45,20 +44,24 @@ available_for: Interesting problems, open source, & coffee chats
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🗄️ Databases & Messaging
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </div>
 
@@ -114,12 +117,12 @@ const saimul = {
   title    : "Senior Backend Engineer · Solutions Architect",
   years    : "8+ years building production systems",
   expertise: {
-    domains  : ["Fintech", "Crypto Exchanges", "Payments", "Algo Trading"],
+    domains  : ["Fintech", "KYC/AML", "Crypto Exchanges", "Market Making", "FIX Protocol"],
     scale    : "100K+ concurrent · 99.9% uptime · <50ms p99",
     team     : "Led a 25-engineer backend team",
     stack    : ["TypeScript", "Node.js", "NestJS", "AWS", "PostgreSQL", "Redis"],
-    patterns : ["Microservices", "Event-Driven", "CQRS", "Smart Order Routing"],
-    llm      : ["LLM Integrations", "RAG Pipelines", "AI-augmented Backends"],
+    patterns : ["Microservices", "Event-Driven", "CQRS", "Distributed Systems"],
+    ai       : ["LLM Integrations", "MCP", "Generative AI Backends"],
   },
   cert   : "AWS Certified Cloud Practitioner",
   openTo : ["Hard problems", "Open source", "Coffee chats"],
