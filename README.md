@@ -66,12 +66,6 @@ available_for: Interesting problems, open source, & coffee chats
 
 ## 📦 npm Packages
 
-<div align="center">
-
-[![nestjs-redis](https://github-readme-stats.vercel.app/api/pin/?username=saimulhasnain-dev&repo=nestjs-redis&theme=tokyonight&hide_border=true)](https://www.npmjs.com/package/@thensaimulhasnain/nestjs-redis)
-
-</div>
-
 | Package | Description |
 |---------|-------------|
 | [`@thensaimulhasnain/nestjs-redis`](https://www.npmjs.com/package/@thensaimulhasnain/nestjs-redis) | Drop-in Redis module for NestJS |
@@ -86,13 +80,13 @@ available_for: Interesting problems, open source, & coffee chats
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=saimulhasnain-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saimulhasnain-dev&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimulhasnain-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimulhasnain-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img src="https://streak-stats.demolab.com?user=saimulhasnain-dev&theme=tokyonight&hide_border=true" width="500" />
 
 </div>
 
