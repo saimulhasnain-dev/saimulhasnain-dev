@@ -1,164 +1,95 @@
+<!-- AGENT PROFILE: saimulhasnain-dev | v2.0 | STATUS: ONLINE -->
+
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:0d1f3c,100:020817&height=220&section=header&text=SAIMUL%20HASNAIN&fontSize=52&fontColor=7dd3fc&fontAlignY=36&desc=%E2%96%B6%20Senior%20Backend%20Engineer%20%7C%20Solutions%20Architect%20%7C%20AI%20Systems%20Builder&descSize=15&descAlignY=57&descColor=94a3b8" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=200&section=header&text=Saimul%20Hasnain&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=I%20build%20backends%20that%20move%20real%20money%20without%20breaking&descSize=16&descAlignY=58&descColor=38bdf8" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Senior+Backend+Engineer+%26+Solutions+Architect;100K%2B+concurrent+requests+%E2%80%A2+99.9%25+uptime;Fintech+%E2%80%A2+Crypto+%E2%80%A2+Payments+%E2%80%A2+LLM+Integrations;TypeScript+%E2%80%A2+NestJS+%E2%80%A2+AWS+%E2%80%A2+Dubai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=7DD3FC&center=true&vCenter=true&width=720&lines=%E2%9C%94+AGENT+INITIALIZED+%E2%80%94+8%2B+years+in+production;%E2%9C%94+SCALE%3A+100K%2B+concurrent+%C2%B7+99.9%25+uptime+%C2%B7+%3C50ms+p99;%E2%9C%94+DOMAINS%3A+Fintech+%C2%B7+Crypto+%C2%B7+Payments+%C2%B7+LLM+Infra;%E2%9C%94+LOCATION%3A+Dubai%2C+UAE+%E2%80%94+open+to+remote)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```ts
-const saimul = {
-  name     : "Saimul Hasnain",
-  location : "Dubai, UAE",
-  title    : "Senior Backend Engineer · Solutions Architect",
-  years    : "8+ years building production systems",
+```typescript
+// ============================================================
+//  AGENT MANIFEST — saimulhasnain-dev
+// ============================================================
 
-  expertise: {
-    domains  : ["Fintech", "Crypto Exchanges", "Payments", "Algo Trading"],
-    scale    : "100K+ concurrent · 99.9% uptime · <50ms p99",
-    team     : "Led a 25-engineer backend team",
-    stack    : ["TypeScript", "Node.js", "NestJS", "AWS", "PostgreSQL", "Redis"],
-    patterns : ["Microservices", "Event-Driven", "CQRS", "Smart Order Routing"],
-    llm      : ["LLM Integrations", "RAG Pipelines", "AI-augmented Backends"],
+const agent = {
+  identity : { name: "Saimul Hasnain", handle: "@saimulhasnain-dev" },
+  runtime  : "Node.js / NestJS / AWS",
+  uptime   : "8+ years — zero critical outages",
+
+  capabilities: {
+    architecture : ["Microservices", "Event-Driven", "CQRS", "Smart Order Routing"],
+    scale        : "100K+ concurrent requests · 99.9% uptime · <50ms p99",
+    led          : "25-engineer backend team across 3 time zones",
+    domains      : ["Fintech", "Crypto Exchanges", "Algo Trading", "Payment Rails"],
+    llm          : ["LLM Integrations", "RAG Pipelines", "AI-augmented Backends"],
   },
 
-  currentlyBuilding : "Zero-dependency npm tools & LLM-powered backend utilities",
-  cert              : "AWS Certified Cloud Practitioner",
-  openTo            : ["Hard problems", "Open source", "Coffee chats"],
+  toolRegistry: ["TypeScript", "NestJS", "AWS", "PostgreSQL", "Redis", "Kafka"],
+  cert        : "AWS Certified Cloud Practitioner",
+  building    : "Zero-dependency npm utilities & LLM-powered backend tools",
+  openTo      : ["Hard problems", "Open source", "Coffee chats"],
 };
+
+// STATUS: ACCEPTING_CONNECTIONS
 ```
 
 ---
 
+## ⚡ Tool Registry
+
 <div align="center">
 
-## What I'm Known For
+![TypeScript](https://img.shields.io/badge/TypeScript-020817?style=for-the-badge&logo=typescript&logoColor=7dd3fc)
+![Node.js](https://img.shields.io/badge/Node.js-020817?style=for-the-badge&logo=nodedotjs&logoColor=7dd3fc)
+![NestJS](https://img.shields.io/badge/NestJS-020817?style=for-the-badge&logo=nestjs&logoColor=7dd3fc)
+![AWS](https://img.shields.io/badge/AWS-020817?style=for-the-badge&logo=amazonaws&logoColor=7dd3fc)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020817?style=for-the-badge&logo=postgresql&logoColor=7dd3fc)
+![Redis](https://img.shields.io/badge/Redis-020817?style=for-the-badge&logo=redis&logoColor=7dd3fc)
+![Docker](https://img.shields.io/badge/Docker-020817?style=for-the-badge&logo=docker&logoColor=7dd3fc)
+![Kafka](https://img.shields.io/badge/Kafka-020817?style=for-the-badge&logo=apachekafka&logoColor=7dd3fc)
+![Terraform](https://img.shields.io/badge/Terraform-020817?style=for-the-badge&logo=terraform&logoColor=7dd3fc)
+![GraphQL](https://img.shields.io/badge/GraphQL-020817?style=for-the-badge&logo=graphql&logoColor=7dd3fc)
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### I Build
-- APIs that handle **100K+ concurrent requests** without sweating
-- **Market-making & trading systems** wired to live exchanges
-- **Smart order routers** that find best execution in real time
-- **LLM-powered backends** — RAG pipelines, AI tooling, agentic APIs
-- **Developer tools** that ship as zero-dependency npm packages
+## 📡 Deployed Packages
 
-</td>
-<td width="50%" valign="top">
+```sh
+# Zero-dependency · tree-shakeable · production-tested
 
-### I Think About
-- System design that holds up at **3am on a Tuesday**
-- **Failure modes first** — then the happy path
-- **Observability as a first-class feature**, not an afterthought
-- **DX** — if the API is hard to use, it's broken
-- **Team leverage** — good architecture multiplies every engineer around it
-
-</td>
-</tr>
-</table>
+npm install @thensaimulhasnain/nestjs-redis    # Drop-in Redis module for NestJS
+npm install @thensaimulhasnain/nestjs-logger   # Structured JSON logger
+npm install @thensaimulhasnain/nestjs-config   # Type-safe config loader
+npm install @thensaimulhasnain/nestjs-health   # Health-check module
+```
 
 ---
 
+## 🔄 Execution Metrics
+
 <div align="center">
-
-## npm Packages
-
+<img src="https://github-readme-stats.vercel.app/api?username=saimulhasnain-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020817&title_color=7dd3fc&icon_color=7dd3fc&text_color=94a3b8&ring_color=7dd3fc" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimulhasnain-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=020817&title_color=7dd3fc&text_color=94a3b8" height="165" />
 </div>
 
-| Package | What it does |
-|---------|-------------|
-| [**webhook-verify-kit**](https://www.npmjs.com/package/webhook-verify-kit) | Verify Stripe, GitHub, Shopify & Slack signatures — constant-time compare, replay protection, secret rotation. Zero deps. |
-| [**uniform-api-response**](https://www.npmjs.com/package/uniform-api-response) | One consistent JSON envelope for every endpoint — success, errors, pagination. Express-ready. Zero deps. |
-| [**joi-form-i18n**](https://www.npmjs.com/package/joi-form-i18n) | Joi errors into ready-to-show form messages in 8 languages (EN, ES, FR, DE, PT, AR, HI, UR). |
-| [**env-startup-check**](https://www.npmjs.com/package/env-startup-check) | Fail fast on bad env vars — reports everything at once, never leaks secrets. Zero deps. |
-
----
-
 <div align="center">
-
-## Projects
-
-</div>
-
-| Project | What it does |
-|---------|-------------|
-| [**create-nest-api-starter**](https://github.com/saimulhasnain-dev/create-nest-api-starter) | `npm create nest-api-starter` — NestJS skeleton with config, health checks, CRUD & tests ready to ship. |
-| [**create-node-service-starter**](https://github.com/saimulhasnain-dev/create-node-service-starter) | `npm create node-service-starter` — Express + graceful shutdown + Dockerfile. Zero to prod in minutes. |
-| **Market-Making Engine** | Live order book management, signal-based execution across crypto exchanges. |
-| **Smart Order Router** | Real-time best-execution routing across venues by price, depth & fees. |
-
----
-
-<div align="center">
-
-## Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![AWS Cert](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saimulhasnain-dev&theme=tokyonight&hide_border=true&background=020817&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="500" />
 </div>
 
 ---
 
 <div align="center">
 
-## GitHub Stats
+```
+// END OF MANIFEST — github.com/saimulhasnain-dev
+// CONNECT: linkedin.com/in/saimulhasnain
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=saimulhasnain-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8&text_color=CDD9E5&ring_color=38bdf8" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimulhasnain-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=CDD9E5" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saimulhasnain-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="500" />
-
-</div>
-
----
-
-<div align="center">
-
-## How I Think
-
-> *"Scale isn't a feature you add later — it's a decision you make on day one."*
-
-> *"The best API is the one callers never have to think about."*
-
-> *"If the on-call doesn't get paged, the architecture did its job."*
-
-</div>
-
----
-
-<div align="center">
-
-## Let's Talk
-
-Scale problem? Architecture decision? Want to collab on something interesting?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimulhasnain)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~thensaimulhasnain)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saimulhasnain-dev)
-
-<br/>
-
-*If a package saved you a deadline — a star costs nothing and means everything.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:0d1f3c,100:020817&height=100&section=footer" width="100%" />
 
 </div>
